@@ -22,22 +22,22 @@
 ---
 
 ## Incident A
-Rò rỉ dữ liệu người dùng (lộ thông tin cá nhân, tài khoản).
+Rò rỉ dữ liệu người dùng (lộ thông tin cá nhân, tài khoản)
 
 ---
 
 ## Incident B
-Dữ liệu bị sửa đổi trái phép (ví dụ: sửa điểm sinh viên).
+Dữ liệu bị sửa đổi trái phép (ví dụ: sửa điểm sinh viên)
 
 ---
 
 ## Incident C
-Hệ thống bị gián đoạn, không thể truy cập.
+Hệ thống bị gián đoạn, không thể truy cập
 
 ---
 
 ## Threat
-Hacker hoặc người dùng có ý đồ xấu tấn công để thay đổi dữ liệu.
+Hacker hoặc người dùng có ý đồ xấu tấn công để thay đổi dữ liệu
 
 ---
 
@@ -57,7 +57,7 @@ Hacker hoặc người dùng có ý đồ xấu tấn công để thay đổi d�
 ---
 
 ## Reflection
-Qua bài này, em hiểu rõ hơn về mô hình CIA và cách áp dụng trong thực tế. Việc xác định assets giúp tập trung bảo vệ các thành phần quan trọng. Em nhận thấy rằng các lỗ hổng nhỏ cũng có thể gây ra rủi ro lớn. Khi phân tích hệ thống, cần xem xét đầy đủ threat, vulnerability và mitigation.
+Nếu là quản trị viên hệ thống, em sẽ ưu tiên xử lý sự cố B trước vì việc sửa điểm ảnh hưởng trực tiếp đến tính chính xác của dữ liệu. Điều này có thể làm mất uy tín của hệ thống và gây ảnh hưởng đến sinh viên. Sau đó em sẽ xử lý các vấn đề liên quan đến bảo mật và khả năng truy cập để đảm bảo hệ thống hoạt động an toàn và ổn định.
 
 ---
 
