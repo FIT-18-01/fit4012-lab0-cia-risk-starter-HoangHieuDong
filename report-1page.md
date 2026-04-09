@@ -33,8 +33,7 @@ Hệ thống bị sập, không truy cập được
 
 ## Phân tích sự cố B
 
-Threat:
-Hacker hoặc sinh viên lợi dụng lỗ hổng để thay đổi điểm
+Threat: Hacker hoặc sinh viên lợi dụng lỗ hổng để thay đổi điểm
 
 Vulnerability:
 - Hệ thống không kiểm tra quyền truy cập chặt chẽ
