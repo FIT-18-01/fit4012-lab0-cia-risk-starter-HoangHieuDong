@@ -25,7 +25,7 @@ Rò rỉ thông tin điểm sinh viên
 Sinh viên sửa điểm trái phép
 
 ---
-
+ 
 ## Sự cố C
 Hệ thống bị sập, không truy cập được
 
