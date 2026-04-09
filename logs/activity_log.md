@@ -14,6 +14,6 @@
 - [ ] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải: Ban đầu em chưa hiểu rõ yêu cầu của file report-1page.md và nhầm lẫn giữa các file cần chỉnh sửa.
+- Cách em xử lý: Đọc lại yêu cầu đề bài, kiểm tra lỗi validate và chỉnh sửa đúng các file cần thiết.
+- Điều em học được từ bài lab: Em hiểu rõ hơn về mô hình CIA (Confidentiality, Integrity, Availability) và cách áp dụng vào phân tích rủi ro trong hệ thống.
